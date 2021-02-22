@@ -1,0 +1,5 @@
+## node.js 静态服务器
+## 运行
+```
+ts-node-dev index.ts
+```
